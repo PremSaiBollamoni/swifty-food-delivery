@@ -114,13 +114,6 @@ Swifty isn't just another food delivery app - it's a **full-stack masterpiece** 
     (0-2 min)      (2-5 min)        (5-10 min)        (10+ min)
 ```
 
-**Real-time Features:**
-- Curved route path animation
-- Moving delivery bike icon with speed lines
-- Status progress tracker
-- Live status updates every 5-30 seconds
-- Visual map with restaurant and delivery markers
-
 </div>
 
 ---
