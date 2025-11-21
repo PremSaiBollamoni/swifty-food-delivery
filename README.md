@@ -2,7 +2,7 @@
 
 # 🍕 Swifty - Modern Food Delivery Platform
 
-<img src="swifty-frontend/public/images/logo.png" alt="Swifty Logo" width="120" height="120"/>
+<img src="images/logo.png" alt="Swifty Logo" width="120" height="120"/>
 
 ### *Order food & groceries. Discover best restaurants. Swifty it!* 🚀
 
